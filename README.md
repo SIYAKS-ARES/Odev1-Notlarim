@@ -1,2 +1,2 @@
-# java_learning
+# Ödev1-Notlarım
  I'm learning Java Language
